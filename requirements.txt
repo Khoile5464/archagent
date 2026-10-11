@@ -1,0 +1,23 @@
+# Week 1 — Safety
+anthropic
+openai
+google-genai
+rich
+
+# Week 2 — RAG
+llama-index
+sentence-transformers
+rank-bm25
+faiss-cpu
+
+# Week 3 — Local models
+ollama
+transformers
+
+# Common
+python-dotenv
+pydantic
+fastapi
+uvicorn
+pytest
+outlines
